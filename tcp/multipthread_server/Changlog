@@ -1,0 +1,9 @@
+代码变更：
+(多线程并发服务器)
+
+multipthread_server.c         2018-10-10      基版          
+multipthread_server_v1.0.c    2018-10-10      添加数据请求
+multipthread_server_v2.0.c    2018-10-14      解决数据传中不能包含0的问题      
+multipthread_server_v2.1.c    2018-10-31      数据帧前添加时间戳
+multipthread_server_v2.2.c 	  2018-11-18	  数据接收格式由十六进制改为字符串格式
+					
